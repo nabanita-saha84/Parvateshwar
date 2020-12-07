@@ -11,7 +11,7 @@
 }
 @font-face{
     font-family: "Monoton";
-    src: url("C:\Users\KIIT\Desktop\marvin-master\marvin-master\src\static\fonts\Monoton\Monoton-Regular.ttf")
+    src: url("../fonts/Monoton/Monoton-Regular.ttf")
 }
 .content {
     color: black;
