@@ -9,6 +9,10 @@
         transform: translateX(-50%) translateZ(0) scaleY(1)
     }
 }
+@font-face{
+    font-family: "Monoton";
+    src: url("C:\Users\KIIT\Desktop\marvin-master\marvin-master\src\static\fonts\Monoton\Monoton-Regular.ttf")
+}
 .content {
     color: black;
     background-color: transparent;
@@ -75,8 +79,4 @@
 }
 .waveAnimation .waveBottom {
     animation: move_wave 15s linear infinite;
-}
-@font-face{
-    font-family: "Monoton";
-    src: url("../fonts/Monoton/Monoton-Regular.ttf")
 }
